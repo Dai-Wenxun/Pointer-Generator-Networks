@@ -1,0 +1,25 @@
+# general
+gpu_id: 0
+use_gpu: True
+seed: 2021
+state: INFO
+reproducibility: False
+data_path: 'data/'
+checkpoint_dir: 'saved/'
+generated_text_dir: 'generated/'
+plot: True
+
+# training settings
+epochs: 150
+warmup_epochs: 10
+iters_per_epoch: 100
+train_batch_size: 32
+learner: schedule
+learning_rate: 0.001
+eval_step: 1
+stopping_step: 3
+grad_clip: 1.0
+
+# evaluation settings
+eval_batch_size: 32
+
