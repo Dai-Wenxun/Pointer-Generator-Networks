@@ -37,7 +37,7 @@ is_pgen: True
 is_coverage: True
 cov_loss_lambda: 1.0
 ```
-Log file is located in `./log`, more details can be found in [yamls](www.github.com).
+Log file is located in `./log`, more details can be found in [yamls](./yamls).
 
 **Note**: Distributed Data Parallel (DDP) is not supported yet.
 
