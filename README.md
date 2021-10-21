@@ -52,7 +52,7 @@ if __name__ == '__main__':
     train(config)
 ```
 
-If you want to resume from a checkpoint, just set the `'load_experiment': ./saved/$model_name$.pth`. Similarly, when `'test_only'` is set to `True`, `'load_experiment'` is required.
+If you want to resume from a checkpoint, just set the `'load_experiment': './saved/$model_name$.pth'`. Similarly, when `'test_only'` is set to `True`, `'load_experiment'` is required.
 
 ## Results
 
