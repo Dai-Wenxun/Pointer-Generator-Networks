@@ -92,13 +92,13 @@ The best model is trained on a TITAN Xp GPU (8GB usage).
 </tr>
 <tr>
 <td align="center"><strong>Seq2Seq+attn+pgen+coverage</strong></td>
-<td align="center"><strong>39.52</strong></td>
-<td align="center"><strong>17.85</strong></td>
-<td align="center"><strong>36.40</strong></td>
+<td align="center"><strong>41.52</strong></td>
+<td align="center"><strong>19.82</strong></td>
+<td align="center"><strong>38.53</strong></td>
 </tr>
 </tbody>
 </table>
 
-**Note**: The architecture of the Seq2Seq model is based on `lstm`, I hope I can replace it with transformer in the future.
+**Note**: The architecture of the Seq2Seq model is based on `lstm`, I hope I can replace it with `transformer` in the future.
 
 ---
