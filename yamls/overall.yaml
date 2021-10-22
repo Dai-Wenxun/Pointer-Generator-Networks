@@ -12,7 +12,7 @@ plot: True
 # training settings
 epochs: 150
 warmup_epochs: 10
-iters_per_epoch: 100
+iters_per_epoch: 400
 train_batch_size: 32
 learner: schedule
 learning_rate: 0.001
