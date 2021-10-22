@@ -56,7 +56,7 @@ If you want to resume from a checkpoint, just set the `'load_experiment': './sav
 
 ## Results
 
-The best model is trained on a TITAN Xp GPU (8GB usage).
+The best model is trained on a TITAN Xp GPU (10GB usage).
 
 ### Training loss 
 <div align="center"><img src="images/loss.png" /></div> 
