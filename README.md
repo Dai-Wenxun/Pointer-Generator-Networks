@@ -86,9 +86,9 @@ The best model is trained on a TITAN Xp GPU (10GB usage).
 </tr>
 <tr>
 <td align="center">Seq2Seq+attn+pgen</td>
-<td align="center">36.04</td>
-<td align="center">15.87</td>
-<td align="center">32.92</td>
+<td align="center">39.05</td>
+<td align="center">18.41</td>
+<td align="center">36.02</td>
 </tr>
 <tr>
 <td align="center"><strong>Seq2Seq+attn+pgen+coverage</strong></td>
